@@ -7,6 +7,8 @@ public class Main
 
     public static void main(String[] args)
     {
+        Matrix change = new Matrix();
+
         Matrix mat = new Matrix();
         mat.printMatrix();
 
