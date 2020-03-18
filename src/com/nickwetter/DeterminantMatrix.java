@@ -4,6 +4,7 @@ public class DeterminantMatrix extends Matrix
 {
     //Inherits rows, columns, and values from Matrix
     private double value;
+    private String test;
 
     public DeterminantMatrix()
     {
